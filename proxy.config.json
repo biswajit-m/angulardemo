@@ -1,0 +1,7 @@
+{ "/coty_api/*": {
+    "target": "http://local.drupal-8.com:8080",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
